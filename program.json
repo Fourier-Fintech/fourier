@@ -1,0 +1,26 @@
+{
+  "program": "fourier_proxy.aleo",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "credits.aleo",
+      "location": "network",
+      "network": "testnet",
+      "path": null
+    },
+    {
+      "name": "fourier_controller.aleo",
+      "location": "local",
+      "network": null,
+      "path": "./fourier_controller"
+    },
+    {
+      "name": "fourier_interest.aleo",
+      "location": "local",
+      "network": null,
+      "path": "./fourier_interest"
+    }
+  ]
+}

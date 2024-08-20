@@ -1,0 +1,14 @@
+{
+  "program": "fourier_controller.aleo",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "fourier_oracle.aleo",
+      "location": "local",
+      "network": null,
+      "path": "../fourier_oracle"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[[package]]
+name = "credits.aleo"
+network = "testnet"
+location = "network"
+checksum = "e185a49fba7f5e477c3fedf8968be9912ae7d8db34531c246041e899175e4d33"
+dependencies = []
+
+[[package]]
+name = "fourier_oracle.aleo"
+location = "local"
+path = "/Users/naoki/Code/fourier/fourier/./fourier_controller/../fourier_oracle"
+checksum = "230dd2cb4a2976df54de7d18c9934b8fdc5c9f15536967ce589d3a5beb9be019"
+dependencies = []
+
+[[package]]
+name = "fourier_controller.aleo"
+location = "local"
+path = "/Users/naoki/Code/fourier/fourier/./fourier_controller"
+checksum = "811b36d40c8746c93a618e9de01417f7e4dc86d7330aabde477f91f1fa1eea38"
+dependencies = ["fourier_oracle.aleo"]
+
+[[package]]
+name = "fourier_interest.aleo"
+location = "local"
+path = "/Users/naoki/Code/fourier/fourier/./fourier_interest"
+checksum = "d099ec7fa7aa6ea704d43191ca281117e5f3d0c14d017df93cc03505b2c0fccf"
+dependencies = []

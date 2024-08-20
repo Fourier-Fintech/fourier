@@ -1,0 +1,6 @@
+[[package]]
+name = "fourier_oracle.aleo"
+location = "local"
+path = "/Users/naoki/Code/fourier/fourier/./fourier_controller/../fourier_oracle"
+checksum = "230dd2cb4a2976df54de7d18c9934b8fdc5c9f15536967ce589d3a5beb9be019"
+dependencies = []
