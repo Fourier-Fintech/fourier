@@ -1,6 +1,6 @@
 # Fourier Protocol
 
-## 🚧 TODO
+*FOURIER* is a cross-chain decentralized lending platform built on the Aleo blockchain, integrating advanced privacy technologies. As a DeFi platform, FOURIER supports Aleo chain interactions while ensuring user data privacy and security. With Aleo, *FOURIER* promotes transparency and fairness, and its robust risk control mechanism fosters positive relationships between borrowers, creditors, and guarantors. Moreover, FOURIER's innovative credit evaluation module incentivizes users to develop good credit on the blockchain, leveraging Aleo's privacy features to protect user information and enhance trust within the DeFi ecosystem.
 
 ## Contract Structure
 
